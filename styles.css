@@ -10,7 +10,7 @@
   color: green;
 }
 
-.shadow-\[0px_6px_10px_rgba\(0\2c 0\2c 0\2c 0\.5\)\]{
+.rounded-theme.relative.mt-auto {
   max-width: 40px;
   max-height: 40px
 }
