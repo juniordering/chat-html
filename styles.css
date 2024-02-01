@@ -1,16 +1,11 @@
-.style-balloon-user{
-  background-color: green;
+.chat-ia-user-message-balloon{
+  background-color: #3B3A3A;
+}
+.chat-ia-user-message-balloon svg{
+  color: #3B3A3A;
 }
 
-.style-balloon-user-indicator{
-  color: green;
-}
-
-.teste {
-  color: green;
-}
-
-.rounded-theme.relative.mt-auto {
-  max-width: 40px;
-  max-height: 40px
+.chat-ia-ia-header{
+  background-positon-y: -57px;
+  max-height: 10rem;
 }
